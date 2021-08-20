@@ -958,7 +958,7 @@ $(document).ready(function() {
     main_input = UList_HTML.objects.main_input;
     btn_notify = UList_HTML.objects.btn_notify;
 
-    UList.set_api_key("AIzaSyCHzxajclsq5TTRO-JQyS-AYwIOqCvfTUg");
+    UList.set_api_key("AIzaSyCYekyul-Oh1O2F-vdEhbUubjj4VuWy0b8");
 
     main_input.addEventListener("input", function() {
         // Workaround for IE bug (#856700)
